@@ -58,3 +58,37 @@ margin:300px 50px;
     position: relative;
     top: 320px;
 }
+.div4{
+    max-width: 1250px;
+    margin: auto;
+    padding: 100px 0px;
+    
+}
+.text{
+    text-align: center;
+}
+.img{
+border-radius: 4px;
+background-color: rgb(252, 252, 252);
+border-bottom: 2px solid #69B99D;
+width: 300px;
+height: 300px;
+box-shadow: 0px 5px 20px rgb(0,0,0,0.15);
+}
+.imgs{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.div5{
+    margin: 300px 0px;
+    max-width: 1250px;
+    margin: auto;
+}
+.chap2{
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0px 5px 20px rgb(0,0,0,0.1) ;
+width: 500px;
+height: 200px;
+}

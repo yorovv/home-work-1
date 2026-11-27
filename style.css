@@ -24,6 +24,16 @@ header{
     margin: auto;
     margin: 120px 90px;
     gap: 250px;
+    
+}
+.tagborder{
+border-bottom: 1px solid #69B99D;
+width: 1250px;
+height: 1px;
+background-color: #69B99D;
+position: relative;
+top: 100px;
+
 }
     .tugma{
 border-radius: 4px ;
@@ -36,4 +46,15 @@ margin-top: 50px;
     word-break: 300px;
     height: 150px;
     margin: -50px 0px;
+}
+.chap1{
+margin:300px 50px;
+}
+.div3{
+    display: flex;
+    
+}
+.rost1{
+    position: relative;
+    top: 320px;
 }

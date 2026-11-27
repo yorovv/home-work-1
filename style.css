@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    display: flex;
+    font-size: 15px;
+    gap: 30px;
+
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 0px;
+    border-bottom: 1px solid rgb(198, 194, 194);
+}
